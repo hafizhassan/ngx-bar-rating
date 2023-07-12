@@ -21,8 +21,8 @@
   "author": "Murhaf Sousli <murhafsousi@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
-    "@angular/common": "^13.0.0",
-    "@angular/core": "^13.0.0"
+    "@angular/common": "^14.3.0",
+    "@angular/core": "^14.3.0"
   },
   "dependencies": {
     "tslib": "^2.0.0"
